@@ -1,0 +1,5 @@
+pylzma
+numpy
+ipykernel
+jupyter
+torch
